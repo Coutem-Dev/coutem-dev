@@ -20,47 +20,45 @@ Sou interessado(a) em tecnologia e desenvolvimento de software, buscando sempre 
 
 ## 🛠️ Linguagens e Tecnologias
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br/>
-<br/>
+<p align="left">
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Coutem-Dev&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutem-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-</p>
-
-<br/>
-<br/>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=Coutem-Dev&show_icons=true&theme=tokyonight&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutem-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: (SEU EMAIL)
-- 💼 LinkedIn: (SEU LINKEDIN)
-- 🌐 Portfólio: (SEU SITE SE TIVER)
+- 📧 Email: cauacoutinhodev@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/caua-coutinho
 
 ---
 
