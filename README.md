@@ -41,13 +41,13 @@ Sou interessado(a) em tecnologia e desenvolvimento de software, buscando sempre 
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=(SEU_USERNAME)&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Coutem-Dev&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=(SEU_USERNAME)&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutem-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
 
